@@ -1,0 +1,512 @@
+.hello-rohan,
+.reccomended1 {
+  position: absolute;
+  font-weight: 600;
+}
+.hello-rohan {
+  top: 3.46em;
+  left: 2.75em;
+  font-size: 1.5em;
+  display: inline-block;
+  width: 15.08em;
+}
+.reccomended1 {
+  top: 0;
+  left: 0;
+  font-size: 1.13em;
+  font-family: "Noto Sans";
+}
+.sleep-sounds-by-nature-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 14px;
+  background-color: #ceedff;
+  width: 16.06em;
+  height: 6.81em;
+}
+.sleep-sounds-by-nature-item {
+  position: absolute;
+  top: 1.13em;
+  left: 1.13em;
+  border-radius: 10px;
+  width: 3em;
+  height: 3em;
+  object-fit: cover;
+}
+.sleep-sounds-by {
+  position: absolute;
+  top: 1.29em;
+  left: 5.43em;
+  font-size: 0.88em;
+  font-weight: 600;
+  font-family: "Noto Sans";
+  display: inline-block;
+  width: 12.5em;
+}
+.health-and-lifestyle,
+.k {
+  position: absolute;
+  top: 3.58em;
+  left: 7.08em;
+  font-size: 0.75em;
+}
+.k {
+  top: 6.33em;
+  left: 16.92em;
+}
+.sleep-sounds-by-nature-inner {
+  position: absolute;
+  top: 3.06em;
+  left: 4.88em;
+  border-radius: 50%;
+  background-color: #242327;
+  width: 0.19em;
+  height: 0.19em;
+}
+.icon-user,
+.k1 {
+  position: absolute;
+}
+.icon-user {
+  top: 4.75em;
+  left: 14.38em;
+  width: 0.81em;
+  height: 0.81em;
+}
+.k1 {
+  top: 6.33em;
+  left: 11.33em;
+  font-size: 0.75em;
+}
+.ant-designlike-filled-icon {
+  position: absolute;
+  top: 4.63em;
+  left: 10.56em;
+  width: 1em;
+  height: 1em;
+  overflow: hidden;
+}
+.cover-child,
+.sleep-sounds-by-nature {
+  position: absolute;
+  top: 2.44em;
+  left: 0;
+  width: 16.06em;
+  height: 6.81em;
+}
+.cover-child {
+  top: 0;
+  border-radius: 14px;
+  background-color: #ebe8ff;
+}
+.k2,
+.k3 {
+  position: absolute;
+  top: 6.33em;
+  left: 16.75em;
+  font-size: 0.75em;
+}
+.k3 {
+  left: 11.75em;
+}
+.ant-designlike-filled-icon1 {
+  position: absolute;
+  top: 4.63em;
+  left: 10.44em;
+  width: 1em;
+  height: 1em;
+  overflow: hidden;
+}
+.cover,
+.reccomended {
+  position: absolute;
+  top: 2.44em;
+  left: 16.81em;
+  width: 16.06em;
+  height: 6.81em;
+}
+.reccomended {
+  top: 43.88em;
+  left: 1.63em;
+  width: 32.88em;
+  height: 9.25em;
+  font-family: Inter;
+}
+.group-icon2 {
+  position: absolute;
+  top: 1.08em;
+  right: 0.9em;
+  width: 4.17em;
+  height: 0.71em;
+}
+.span1 {
+  letter-spacing: -0.28px;
+}
+.time2 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 7.5px);
+  left: 0;
+  font-size: 0.88em;
+  line-height: 1.14em;
+  font-weight: 600;
+  display: inline-block;
+}
+.starus1,
+.system-bar1 {
+  position: absolute;
+  height: 47.73%;
+  top: 27.27%;
+  bottom: 25%;
+  left: -0.94em;
+  width: 3.38em;
+}
+.system-bar1 {
+  height: 4.91%;
+  width: 90.58%;
+  top: 0.89%;
+  right: 2.9%;
+  bottom: 94.2%;
+  left: 6.52%;
+  text-align: center;
+  color: #000;
+  font-family: "SF Pro Display";
+}
+.your-subscriptioons1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 1.13em;
+  font-weight: 600;
+}
+.see-all1 {
+  position: relative;
+  font-size: 0.88em;
+  font-weight: 500;
+}
+.see-all-child {
+  position: relative;
+  border-radius: 4px;
+  background-color: #242327;
+  width: 0.38em;
+  height: 0.13em;
+}
+.see-all {
+  position: absolute;
+  top: 0.31em;
+  left: 19.88em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.31em;
+  font-family: Inter;
+}
+.mask-group-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 7.94em;
+  height: 7.25em;
+  object-fit: cover;
+}
+.easy-stories-in {
+  position: absolute;
+  top: 10.33em;
+  left: 0;
+  font-size: 0.75em;
+  font-weight: 600;
+  display: inline-block;
+  width: 10.58em;
+}
+.easy-stories-in-english,
+.the-debrief-child {
+  position: absolute;
+  top: 2.44em;
+  left: 0;
+  width: 7.94em;
+  height: 9.75em;
+}
+.the-debrief-child {
+  top: 0;
+  border-radius: 14px;
+  width: 7.88em;
+  height: 7.25em;
+  object-fit: cover;
+}
+.the-debrief1 {
+  position: absolute;
+  top: 10.33em;
+  left: 0;
+  font-size: 0.75em;
+  font-weight: 600;
+  display: inline-block;
+  width: 10.5em;
+}
+.the-debrief {
+  position: absolute;
+  top: 2.44em;
+  left: 8.94em;
+  width: 7.88em;
+  height: 8.75em;
+}
+.world-business-report-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 14px;
+  width: 8.06em;
+  height: 7.25em;
+  object-fit: cover;
+}
+.world-business-report1 {
+  position: absolute;
+  top: 10.33em;
+  left: 0;
+  font-size: 0.75em;
+  font-weight: 600;
+  display: inline-block;
+  width: 10.75em;
+}
+.world-business-report {
+  position: absolute;
+  top: 2.44em;
+  left: 17.81em;
+  width: 8.06em;
+  height: 9.75em;
+}
+.your-subscriptioons {
+  position: absolute;
+  top: 29.31em;
+  left: 1.63em;
+  width: 25.88em;
+  height: 12.19em;
+}
+.for-you1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 1.13em;
+  font-weight: 600;
+  font-family: "Noto Sans";
+  color: #242327;
+}
+.how-to-hack-the-education-syst-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 14px;
+  background-color: #f2efed;
+  width: 17.94em;
+  height: 6.5em;
+}
+.how-to-hack {
+  position: absolute;
+  top: 1.29em;
+  left: 6.86em;
+  font-size: 0.88em;
+  font-weight: 600;
+  font-family: "Noto Sans";
+  color: #242327;
+  display: inline-block;
+  width: 12.5em;
+}
+.dec,
+.hr-15-min {
+  position: absolute;
+  top: 5.92em;
+  left: 12.17em;
+  font-size: 0.75em;
+  font-weight: 500;
+}
+.dec {
+  left: 8.08em;
+}
+.how-to-hack-the-education-syst-item {
+  position: absolute;
+  top: 1.13em;
+  left: 1.13em;
+  border-radius: 10px;
+  width: 4.25em;
+  height: 4.25em;
+  object-fit: cover;
+}
+.div,
+.like-icon {
+  position: relative;
+}
+.div {
+  font-size: 0.75em;
+}
+.like-icon {
+  width: 1em;
+  height: 1em;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.parent {
+  position: absolute;
+  top: 4.38em;
+  left: 15em;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.13em;
+}
+.how-to-hack-the-education-syst-inner {
+  position: absolute;
+  top: 4.88em;
+  left: 8.56em;
+  border-radius: 50%;
+  background-color: #a7a6a5;
+  width: 0.19em;
+  height: 0.19em;
+}
+.how-to-hack-the-education-syst {
+  position: absolute;
+  top: 2.44em;
+  left: 0;
+  width: 17.94em;
+  height: 6.5em;
+}
+.dec1,
+.div1,
+.hr-15-min1 {
+  position: absolute;
+  top: 5.92em;
+  left: 12.17em;
+  font-size: 0.75em;
+}
+.dec1,
+.div1 {
+  left: 8.08em;
+}
+.div1 {
+  left: 20em;
+}
+.like-icon1 {
+  position: absolute;
+  top: 16.31em;
+  left: 36.38em;
+  width: 1em;
+  height: 1em;
+  overflow: hidden;
+}
+.how-to-hack-the-education-syst1 {
+  position: absolute;
+  top: 2.44em;
+  left: 18.69em;
+  width: 17.94em;
+  height: 6.5em;
+}
+.how-to-avoid-burnout-at-work-child,
+.mask-group-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 22.63em;
+  height: 7.69em;
+}
+.how-to-avoid-burnout-at-work-child {
+  border-radius: 28px;
+  background-color: #242327;
+}
+.mask-group-icon6 {
+  object-fit: cover;
+}
+.how-to-avoid {
+  position: absolute;
+  top: 2.71em;
+  left: 2em;
+  font-size: 0.88em;
+  font-weight: 600;
+  color: #f9f7f5;
+  display: inline-block;
+  width: 11.57em;
+}
+.by-live-better {
+  position: absolute;
+  top: 1.5em;
+  left: 2.33em;
+  font-size: 0.75em;
+}
+.date-child {
+  position: relative;
+  border-radius: 50%;
+  background-color: #a7a6a5;
+  width: 0.19em;
+  height: 0.19em;
+}
+.min {
+  position: relative;
+  font-size: 0.75em;
+  font-weight: 500;
+}
+.date {
+  position: absolute;
+  top: 5.63em;
+  left: 1.75em;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.38em;
+  font-family: Inter;
+}
+.how-to-avoid-burnout-at-work {
+  position: absolute;
+  top: 9.69em;
+  left: 0;
+  width: 22.63em;
+  height: 7.69em;
+  font-family: "Noto Sans";
+}
+.see-all2 {
+  position: absolute;
+  top: 0.31em;
+  left: 19.88em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.06em;
+  color: #242327;
+}
+.for-you {
+  position: absolute;
+  top: 9.56em;
+  left: 1.63em;
+  width: 36.63em;
+  height: 17.38em;
+  color: #a7a6a5;
+  font-family: Inter;
+}
+.upload-icon {
+  position: absolute;
+  top: 5.31em;
+  left: 22.25em;
+  width: 1.5em;
+  height: 1.5em;
+  overflow: hidden;
+}
+.podcast-home-child {
+  position: absolute;
+  right: 22.19em;
+  bottom: 48.13em;
+  border-radius: 50%;
+  width: 3.31em;
+  height: 3.31em;
+  object-fit: cover;
+}
+.podcast-home {
+  position: relative;
+  background-color: #f9f7f5;
+  width: 100%;
+  height: 56em;
+  overflow: hidden;
+  text-align: left;
+  color: #242327;
+  font-family: "Noto Sans";
+}

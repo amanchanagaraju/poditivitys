@@ -1,0 +1,399 @@
+.bg-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.placeholder {
+  position: absolute;
+  top: 36.54%;
+  left: 5.97%;
+  font-size: 0.75em;
+}
+.form-tyeping {
+  position: absolute;
+  height: 56.52%;
+  width: 71.47%;
+  top: 21.74%;
+  right: 24.53%;
+  bottom: 21.74%;
+  left: 4%;
+}
+.divider-icon,
+.grid-even-icon,
+.send-icon {
+  position: absolute;
+  height: 1.09%;
+  width: 100%;
+  top: -0.54%;
+  right: 0;
+  bottom: 99.46%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.grid-even-icon,
+.send-icon {
+  height: 28.26%;
+  width: 6.93%;
+  top: 32.61%;
+  right: 4%;
+  bottom: 39.13%;
+  left: 89.07%;
+}
+.grid-even-icon {
+  height: 26.09%;
+  width: 6.4%;
+  right: 13.6%;
+  bottom: 41.3%;
+  left: 80%;
+}
+.messege-typing {
+  position: absolute;
+  height: 11.33%;
+  width: 100%;
+  top: 88.67%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-icon3,
+.image-avatar-icon {
+  position: absolute;
+  height: 52.63%;
+  width: 14.71%;
+  top: 0;
+  right: 85.29%;
+  bottom: 47.37%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon3 {
+  height: 139.47%;
+  width: 113.51%;
+  top: -14.47%;
+  right: -6.76%;
+  bottom: -25%;
+  left: -6.76%;
+}
+.yeah-its-great {
+  position: absolute;
+  width: 86.49%;
+  top: 15.79%;
+  left: 7.21%;
+  font-size: 0.75em;
+  display: inline-block;
+}
+.chat1,
+.friend-chat {
+  position: absolute;
+  height: 100%;
+  width: 81.62%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 18.38%;
+}
+.friend-chat {
+  height: 9.36%;
+  width: 72.53%;
+  top: 72.17%;
+  right: 20.8%;
+  bottom: 18.47%;
+  left: 6.67%;
+  color: #5a5a5a;
+}
+.im-fine-im {
+  position: absolute;
+  width: 85.94%;
+  top: 15.28%;
+  left: 5.73%;
+  font-size: 0.75em;
+  font-weight: 500;
+  display: inline-block;
+}
+.chat2 {
+  position: absolute;
+  height: 46.75%;
+  width: 79.67%;
+  top: 0;
+  right: 20.33%;
+  bottom: 53.25%;
+  left: 0;
+}
+.but-i-dont {
+  position: absolute;
+  width: 90.1%;
+  top: 15.28%;
+  left: 5.73%;
+  font-size: 0.75em;
+  font-weight: 500;
+  display: inline-block;
+}
+.chat3 {
+  position: absolute;
+  height: 46.75%;
+  width: 79.67%;
+  top: 53.25%;
+  right: 20.33%;
+  bottom: 0;
+  left: 0;
+}
+.image-avatar-icon1 {
+  position: absolute;
+  height: 25.97%;
+  width: 16.6%;
+  top: 0;
+  right: 0;
+  bottom: 74.03%;
+  left: 83.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.owner-chat {
+  position: absolute;
+  height: 18.97%;
+  width: 64.27%;
+  top: 48.52%;
+  right: 6.67%;
+  bottom: 32.51%;
+  left: 29.07%;
+  color: #fff;
+}
+.group-icon4 {
+  position: absolute;
+  height: 175%;
+  width: 135.71%;
+  top: -27.5%;
+  right: -17.86%;
+  bottom: -47.5%;
+  left: -17.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.hey-too {
+  position: absolute;
+  top: 27.5%;
+  left: 19.05%;
+  font-size: 0.75em;
+}
+.chat4,
+.group-icon5,
+.image-avatar-icon2 {
+  position: absolute;
+  height: 31.25%;
+  width: 28.19%;
+  top: 0;
+  right: 55.03%;
+  bottom: 68.75%;
+  left: 16.78%;
+}
+.group-icon5,
+.image-avatar-icon2 {
+  width: 13.42%;
+  right: 86.58%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon5 {
+  height: 139.47%;
+  width: 112.1%;
+  top: -14.47%;
+  right: -6.05%;
+  bottom: -25%;
+  left: -6.05%;
+}
+.its-great-uk {
+  position: absolute;
+  width: 87.5%;
+  top: 15.79%;
+  left: 6.45%;
+  font-size: 0.75em;
+  display: inline-block;
+}
+.chat5,
+.friend-chat1 {
+  position: absolute;
+  height: 59.38%;
+  width: 83.22%;
+  top: 40.63%;
+  right: 0;
+  bottom: 0;
+  left: 16.78%;
+}
+.friend-chat1 {
+  height: 15.76%;
+  width: 79.47%;
+  top: 28.08%;
+  right: 13.87%;
+  bottom: 56.16%;
+  left: 6.67%;
+  color: #5a5a5a;
+}
+.hey-how-are {
+  position: absolute;
+  width: 84.07%;
+  top: 19.64%;
+  left: 8.85%;
+  font-size: 0.75em;
+  font-weight: 500;
+  display: inline-block;
+}
+.chat6,
+.image-avatar-icon3 {
+  position: absolute;
+  height: 100%;
+  width: 82.18%;
+  top: 0;
+  right: 17.82%;
+  bottom: 0;
+  left: 0;
+}
+.image-avatar-icon3 {
+  height: 71.43%;
+  width: 14.55%;
+  right: 0;
+  bottom: 28.57%;
+  left: 85.45%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.owner-chat1 {
+  position: absolute;
+  height: 6.9%;
+  width: 73.33%;
+  top: 16.5%;
+  right: 6.67%;
+  bottom: 76.6%;
+  left: 20%;
+  color: #fff;
+}
+.button-back,
+.button-voice-call,
+.divider-icon1 {
+  position: absolute;
+  height: 76.04%;
+  width: 19.47%;
+  top: 14.58%;
+  right: 77.6%;
+  bottom: 9.38%;
+  left: 2.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.button-voice-call,
+.divider-icon1 {
+  height: 1.04%;
+  width: 100%;
+  top: 97.4%;
+  right: 0;
+  bottom: 1.56%;
+  left: 0;
+}
+.button-voice-call {
+  height: 43.75%;
+  width: 11.2%;
+  top: 27.08%;
+  right: 6.67%;
+  bottom: 29.17%;
+  left: 82.13%;
+}
+.last-active-10 {
+  position: absolute;
+  top: 58.33%;
+  left: 31.2%;
+  font-size: 0.75em;
+}
+.ramcharan-2045cdc {
+  position: absolute;
+  top: 29.17%;
+  left: 24%;
+  font-size: 0.88em;
+  font-weight: 500;
+  color: #1a1b23;
+}
+.online-status-icon {
+  position: absolute;
+  height: 14.58%;
+  width: 3.73%;
+  top: 62.5%;
+  right: 72%;
+  bottom: 22.92%;
+  left: 24.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.header {
+  height: 11.82%;
+  width: 100%;
+  top: 2.71%;
+  right: 0;
+  bottom: 85.47%;
+  left: 0;
+}
+.action1,
+.header,
+.time3 {
+  position: absolute;
+}
+.time3 {
+  top: calc(50% - 9px);
+  left: 0;
+  font-size: 0.94em;
+  letter-spacing: -0.17px;
+  line-height: 1.2em;
+  font-weight: 600;
+  display: inline-block;
+  width: 3.6em;
+}
+.action1 {
+  top: calc(50% - 8px);
+  left: 1.24em;
+  width: 3.38em;
+  height: 1.13em;
+}
+.container-icon1 {
+  position: absolute;
+  top: calc(50% - 4.84px);
+  right: 0.91em;
+  width: 4.19em;
+  height: 0.72em;
+}
+.iphone-x-bars-status-def1 {
+  position: absolute;
+  height: 5.42%;
+  width: 100%;
+  top: 0;
+  right: -0.53%;
+  bottom: 94.58%;
+  left: 0.53%;
+  background-color: #fff;
+  text-align: center;
+  color: #212121;
+  font-family: "SF Pro Text";
+}
+.chat {
+  position: relative;
+  width: 100%;
+  height: 50.75em;
+  overflow: hidden;
+  text-align: left;
+  color: #919191;
+  font-family: Poppins;
+}

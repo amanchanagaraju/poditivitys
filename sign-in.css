@@ -1,0 +1,309 @@
+.vector-icon5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dont-have-account,
+.sign-up1 {
+  position: absolute;
+  top: 0;
+  font-size: 0.75em;
+}
+.sign-up1 {
+  left: 77.34%;
+  text-decoration: underline;
+  font-weight: 500;
+}
+.dont-have-account {
+  left: 0;
+  color: #818181;
+}
+.sign-up {
+  position: absolute;
+  height: 2.22%;
+  width: 54.13%;
+  top: 92.98%;
+  right: 22.93%;
+  bottom: 4.8%;
+  left: 22.93%;
+}
+.sign-in-with {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 0.88em;
+  font-weight: 500;
+}
+.google {
+  position: absolute;
+  height: 36.21%;
+  width: 40.62%;
+  top: 34.48%;
+  right: 26.15%;
+  bottom: 29.31%;
+  left: 33.23%;
+}
+.button-secondary {
+  position: absolute;
+  height: 7.14%;
+  width: 86.67%;
+  top: 84.36%;
+  right: 6.67%;
+  bottom: 8.5%;
+  left: 6.67%;
+  color: #231d25;
+}
+.google1 {
+  position: absolute;
+  height: 36.21%;
+  width: 41.54%;
+  top: 34.48%;
+  right: 25.23%;
+  bottom: 29.31%;
+  left: 33.23%;
+}
+.button-secondary1 {
+  position: absolute;
+  height: 7.14%;
+  width: 86.67%;
+  top: 75.12%;
+  right: 6.67%;
+  bottom: 17.73%;
+  left: 6.67%;
+  color: #231d25;
+}
+.dots-icon,
+.dots-icon1 {
+  position: absolute;
+  height: 5.56%;
+  width: 39.38%;
+  top: 41.67%;
+  right: 60.62%;
+  bottom: 52.78%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dots-icon1 {
+  right: 0;
+  left: 60.62%;
+}
+.or-with1 {
+  position: absolute;
+  top: 0;
+  left: 43.69%;
+  font-size: 0.75em;
+  font-weight: 500;
+}
+.or-with {
+  position: absolute;
+  height: 2.22%;
+  width: 86.67%;
+  top: 71.31%;
+  right: 6.67%;
+  bottom: 26.48%;
+  left: 6.67%;
+  color: #818181;
+}
+.log-in {
+  position: absolute;
+  top: 35.34%;
+  left: 42.74%;
+  font-size: 0.88em;
+  font-weight: 500;
+}
+.button-primary {
+  position: absolute;
+  height: 7.14%;
+  width: 86.67%;
+  top: 63.3%;
+  right: 6.67%;
+  bottom: 29.56%;
+  left: 6.67%;
+  cursor: pointer;
+  color: #fff;
+}
+.forgot-your-password {
+  position: absolute;
+  top: 93.55%;
+  left: 0;
+  font-size: 0.75em;
+  text-decoration: underline;
+}
+.select-your-college {
+  position: absolute;
+  top: 49.28%;
+  left: 5.61%;
+  font-size: 0.88em;
+}
+.form-password {
+  position: absolute;
+  height: 24.73%;
+  width: 99.59%;
+  top: 31.18%;
+  right: 0.31%;
+  bottom: 44.09%;
+  left: 0.1%;
+  color: #c4c3c3;
+}
+.enter-your-password {
+  position: absolute;
+  top: 37.68%;
+  left: 5.61%;
+  font-size: 0.88em;
+}
+.form-password1 {
+  position: absolute;
+  height: 24.73%;
+  width: 99.59%;
+  top: 60.22%;
+  right: 0;
+  bottom: 15.05%;
+  left: 0.41%;
+  color: #c4c3c3;
+}
+.group-icon6 {
+  position: absolute;
+  height: 105.31%;
+  width: 115.38%;
+  top: -18.58%;
+  right: -7.69%;
+  bottom: 13.27%;
+  left: -7.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.infoyourmailcom {
+  position: absolute;
+  top: 31.86%;
+  left: 5.54%;
+  font-size: 0.88em;
+  font-weight: 500;
+  color: #1a1b23;
+}
+.email-address,
+.enter-college-name {
+  position: absolute;
+  top: 13.27%;
+  left: 5.54%;
+  font-size: 0.75em;
+}
+.enter-college-name {
+  top: 84.07%;
+}
+.form,
+.form-email-address {
+  position: absolute;
+  height: 40.5%;
+  width: 99.59%;
+  top: 0;
+  right: 0.31%;
+  bottom: 59.5%;
+  left: 0.1%;
+}
+.form {
+  height: 34.36%;
+  width: 87.02%;
+  top: 28.45%;
+  right: 6.4%;
+  bottom: 37.19%;
+  left: 6.58%;
+}
+.hello-again,
+.log-in-to {
+  position: absolute;
+  text-align: center;
+}
+.log-in-to {
+  top: 20.57%;
+  left: 29.62%;
+  font-size: 0.88em;
+  color: #4a4a4a;
+  opacity: 0.67;
+}
+.hello-again {
+  top: 13.3%;
+  left: 17.33%;
+  font-size: 2.5em;
+  font-weight: 600;
+  color: #1d1d20;
+}
+.button-back1 {
+  position: absolute;
+  height: 8.99%;
+  width: 19.47%;
+  top: 5.42%;
+  right: 77.6%;
+  bottom: 85.59%;
+  left: 2.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.sign-in-child {
+  right: 1.25em;
+  bottom: 44.56em;
+  border-radius: 50%;
+  width: 3.31em;
+  height: 3.31em;
+  object-fit: cover;
+}
+.action2,
+.sign-in-child,
+.time4 {
+  position: absolute;
+}
+.time4 {
+  top: calc(50% - 9px);
+  left: 0;
+  font-size: 0.94em;
+  letter-spacing: -0.17px;
+  line-height: 1.2em;
+  font-weight: 600;
+  display: inline-block;
+  width: 3.6em;
+}
+.action2 {
+  top: calc(50% - 8px);
+  left: 1.24em;
+  width: 3.38em;
+  height: 1.13em;
+}
+.container-icon2 {
+  position: absolute;
+  top: calc(50% - 4.84px);
+  right: 0.91em;
+  width: 4.19em;
+  height: 0.72em;
+}
+.iphone-x-bars-status-def2 {
+  position: absolute;
+  width: 100%;
+  top: 0.25em;
+  right: 0;
+  left: 0;
+  background-color: #fff;
+  height: 2.75em;
+  text-align: center;
+  color: #212121;
+  font-family: "SF Pro Text";
+}
+.sign-in {
+  position: relative;
+  width: 100%;
+  height: 50.75em;
+  overflow: hidden;
+  text-align: left;
+  color: #3098bd;
+  font-family: Poppins;
+}
